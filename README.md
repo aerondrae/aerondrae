@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @aerondrae
+- 👀 I’m interested in learning programming!
+- 🌱 I’m currently learning tkinter
+- 💞️ I’m looking to collaborate on (nothing so far ulol)
+- 📫 How to reach me: IG: @fe_drae / @aed_graphics
